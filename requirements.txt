@@ -1,4 +1,6 @@
 dash
+dash-table
+dash-bootstrap-components
 plotly
 pandas
 numpy
