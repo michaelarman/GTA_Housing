@@ -4,3 +4,4 @@ pandas
 numpy
 geopandas
 pyproj
+gunicorn
