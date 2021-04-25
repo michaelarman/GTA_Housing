@@ -137,10 +137,10 @@ pylint==2.5.3
 pyparsing==2.4.7
 pyperclip==1.8.1
 pyproj
-PyQt5==5.12.3
-PyQt5-sip==4.19.18
-PyQtChart==5.12
-PyQtWebEngine==5.12.1
+PyQt5
+PyQt5-sip
+PyQtChart
+PyQtWebEngine
 pyreadline3==3.3
 pyrsistent
 python-dateutil==2.8.1
