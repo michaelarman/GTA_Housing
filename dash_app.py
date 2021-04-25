@@ -257,7 +257,7 @@ app.layout = html.Div(children=[
             [
                 html.A(
                     html.Button("Source Code", id="learn-more-button"),
-                    href="https://plot.ly/dash/pricing/",
+                    href="https://github.com/michaelarman/GTA_Housing",
                 )
             ],
             className="one-third column",
