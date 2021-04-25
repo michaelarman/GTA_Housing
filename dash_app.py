@@ -23,7 +23,7 @@ external_stylesheets = [dbc.themes.LITERA]
 app = dash.Dash(
     __name__, meta_tags=[{"name": "viewport", "content": "width=device-width"}],external_stylesheets=external_stylesheets
 )
-
+server = app.server
 # load and preprocess dataset
 housing = pd.read_csv('webapp_data/all_cities.csv')
 housing = housing.drop(columns='Unnamed: 0')
