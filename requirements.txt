@@ -116,7 +116,7 @@ optuna==2.5.0
 packaging
 pandas==1.2.1
 pandocfilters
-parso @ file:///tmp/build/80754af9/parso_1607623074025/work
+parso
 patsy==0.5.1
 pbr==5.5.1
 pickleshare
